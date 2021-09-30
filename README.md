@@ -11,10 +11,8 @@ Your goal is to [**recreate this table**](https://codepen.io/annmarcylabschool/f
   * Alternating colors can make it easier for the reader to distinguish between rows.
 
 As always...
-  1. If this is a *Practice Lab*, fork this repo and clone down the forked repo. **OR**
-      * If this is a *Lab Assignment*, just clone this repo without forking it.
-  2. Create your own HTML and CSS files.
+  1. If this is a *Practice or Pairing Lab*, fork this repo and clone down the forked repo **OR** if this is a *Lab Assignment* that was generate using Github classroom, then your repo name will end in your username. No need to fork, just clone this repo without forking it.
+  2. Create your HTML and CSS files.
   3. Stage, commit, and push your changes regularly.
-  4. If this is a *Practice Lab*, open a pull request into `The-Marcy-Lab-School:master` branch to submit. **OR**
-      * If this is a *Lab Assignment*, copy the URL of this repo and submit it through Canvas. 
+  4. If this is a *Lab Assignment*, submit the URL of your repo to Canvas. If this is a *Practice or Pairing Lab*, you can open a PR to denote that you are done.
 
